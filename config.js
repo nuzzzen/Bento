@@ -176,7 +176,7 @@ const CONFIG = {
         },
         {
           name: "AUR",
-          link: "https://www.aur.archlinux.org.com",
+          link: "https://aur.archlinux.org/",
         },
       ],
     },
